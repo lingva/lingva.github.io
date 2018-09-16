@@ -1,2 +1,0 @@
-# lingva.github.io
-Test
